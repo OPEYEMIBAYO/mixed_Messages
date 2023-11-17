@@ -1,0 +1,1 @@
+This is a javaScript project designed to generate random messages predicting number of children one will give birth to based on the month of birth. It is the first commit and still in progress for better version of it.
